@@ -1,21 +1,34 @@
 <div align="center">
 
   <a href="https://github.com/leafdesk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+rian+%F0%9F%91%8B;Frontend+%26+DevOps+Engineer;Automation+%26+Home+Lab+enthusiast;Always+building+something" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+%26+DevOps+Engineer;Automation+%26+Home+Lab+enthusiast;Always+building+something" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <a href="https://github.com/leafdesk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:lsg001008@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/leafdesk?style=flat&logo=github&label=Followers&color=58A6FF" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=leafdesk&style=flat&color=58A6FF&label=Profile+views" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
----
+<br />
 
-### 👨‍💻 About me
+# 👨‍💻 About me
 
 - 🔭 &nbsp;Building **web apps with Next.js** and **automating workflows**
 - 🌱 &nbsp;Exploring **self-hosting** & **home-lab automation** with `n8n` and `Docker`
@@ -26,38 +39,7 @@
 
 <br />
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  **Frontend**
-
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white" />
-
-  <br /><br />
-
-  **DevOps & Tools**
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
-<br />
-
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
