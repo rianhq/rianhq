@@ -4,6 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+rian+%F0%9F%91%8B;Flutter+%26+Web+Developer;Automation+%26+Home+Lab+enthusiast;Always+building+something" alt="Typing SVG" />
   </a>
 
+  <br /><br />
+
+  <a href="https://github.com/leafdesk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:lsg001008@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img alt="Followers" src="https://img.shields.io/github/followers/leafdesk?style=flat-square&logo=github&label=Followers&color=58A6FF" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=leafdesk&style=flat-square&color=58A6FF&label=Profile+views" />
+
 </div>
 
 ---
@@ -27,7 +34,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,vscode,figma,vercel&theme=light" alt="stack 2" />
   <br /><br />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" alt="n8n" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
 
@@ -58,25 +65,4 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leafdesk/leafdesk/output/github-snake.svg" />
   </picture>
 
-</div>
-
-<br />
-
-### 📫 Reach me
-
-<div align="center">
-
-  <a href="mailto:lsg001008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="email" />
-  </a>
-  <a href="https://github.com/leafdesk">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leafdesk&color=58A6FF&style=flat-square&label=Profile+views" alt="profile views" />
 </div>
