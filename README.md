@@ -37,8 +37,8 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leafdesk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafdesk&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leafdesk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leafdesk&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 
   <br /><br />
 
