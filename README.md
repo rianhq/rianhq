@@ -37,12 +37,12 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leafdesk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leafdesk&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leafdesk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leafdesk&layout=compact&hide_border=true&theme=default" alt="top langs" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=leafdesk&hide_border=true&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=leafdesk&hide_border=true&theme=default" alt="streak" />
 
 </div>
 
