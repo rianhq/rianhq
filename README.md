@@ -23,9 +23,9 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,tailwind,nodejs&theme=dark" alt="stack 1" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,tailwind,nodejs&theme=light" alt="stack 1" />
   <br />
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,vscode,figma,vercel&theme=dark" alt="stack 2" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,vscode,figma,vercel&theme=light" alt="stack 2" />
   <br /><br />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" alt="n8n" />
 
