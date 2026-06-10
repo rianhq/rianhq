@@ -1,6 +1,6 @@
 <div align="center">
 <!--
-  <a href="https://github.com/leafdesk">
+  <a href="https://github.com/rianhq">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+%26+DevOps+Engineer;Automation+%26+Home+Lab+enthusiast;Always+building+something" alt="Typing SVG" />
   </a>
 -->
@@ -45,11 +45,11 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leafdesk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leafdesk&layout=compact&hide_border=true&theme=default" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rianhq&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rianhq&layout=compact&hide_border=true&theme=default" alt="top langs" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=leafdesk&hide_border=true&theme=default" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=rianhq&hide_border=true&theme=default" alt="streak" />
 
 </div>
