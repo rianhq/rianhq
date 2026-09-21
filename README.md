@@ -30,16 +30,21 @@
 
 <br />
 
-<!--
+<div align="center">
+  <a href="https://rianhq.com"><b>rianhq.com</b></a> &nbsp;·&nbsp; dev environment &amp; workflow troubleshooting notes
+</div>
+
+<br />
+
 # 👨‍💻 About me
 
 - 🔭 &nbsp;Building **web apps with Next.js** and **automating workflows**
 - 🌱 &nbsp;Exploring **self-hosting** & **home-lab automation** with `n8n` and `Docker`
+- ✍️ &nbsp;I write up the problems I actually hit — dev environment, git worktree, AI coding tools — at **[rianhq.com](https://rianhq.com)**
 - 🤖 &nbsp;I like automating boring, repetitive things away
 - 💬 &nbsp;Ask me about **Next.js**, **TypeScript**, or **workflow automation**
 - 📍 &nbsp;Based in Seoul, Republic of Korea
 - ⚡ &nbsp;Fun fact: I'll happily spend 3 hours automating a 5-minute task
--->
 
 <div align="center">
 
