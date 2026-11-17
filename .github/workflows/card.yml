@@ -1,0 +1,32 @@
+name: Profile card
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # 매일 00:00 KST
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: ["scripts/card.py", ".github/workflows/card.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate profile-card.svg
+        env:
+          # private repo 까지 보려면 PAT 필요. GITHUB_TOKEN 은 public 만 봐서 저장소·언어가 비므로 쓰지 않음
+          GH_TOKEN: ${{ secrets.CARD_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          [ -n "$GH_TOKEN" ] || { echo "::warning::CARD_TOKEN secret 없음, 건너뜀"; exit 0; }
+          python3 scripts/card.py
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add profile-card.svg
+          git diff --cached --quiet || { git commit -m "chore: update profile-card.svg [skip ci]" && git push; }
