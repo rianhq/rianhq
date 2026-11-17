@@ -69,10 +69,13 @@ week = [0] * 7
 for d, v in last365:
     week[d.isoweekday() % 7] += v
 
+IGNORED = {"PLpgSQL", "SQL", "PLSQL", "TSQL"}  # DB 덤프·마이그레이션이 바이트로 압도해 제외
 langs = {}
 for r in u["repositories"]["nodes"]:
     for e in r["languages"]["edges"]:
         n = e["node"]["name"]
+        if n in IGNORED:
+            continue
         langs.setdefault(n, [0, e["node"]["color"] or "#8b949e"])[0] += e["size"]
 top = sorted(langs.items(), key=lambda kv: -kv[1][0])[:6]
 lsum = sum(v[0] for _, v in top) or 1
