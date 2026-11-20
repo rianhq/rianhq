@@ -22,16 +22,16 @@
 
 <text x="550" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">19</text><text x="550" y="68" text-anchor="middle" class="mu" font-size="11">저장소</text>
 <text x="620" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">0</text><text x="620" y="68" text-anchor="middle" class="mu" font-size="11">스타</text>
-<text x="690" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">20</text><text x="690" y="68" text-anchor="middle" class="mu" font-size="11">팔로워</text>
+<text x="690" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">19</text><text x="690" y="68" text-anchor="middle" class="mu" font-size="11">팔로워</text>
 <text x="760" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">11</text><text x="760" y="68" text-anchor="middle" class="mu" font-size="11">언어</text>
 <line x1="24" y1="96" x2="796" y2="96" class="ln"/>
 <text x="150" y="168" text-anchor="middle" class="fg" font-size="30" font-weight="700">11,943</text><text x="150" y="194" text-anchor="middle" class="fg" font-size="13">전체 기여</text><text x="150" y="214" text-anchor="middle" class="mu" font-size="11">2020.4.1 – 현재</text>
 <text x="670" y="168" text-anchor="middle" class="fg" font-size="30" font-weight="700">176일</text><text x="670" y="194" text-anchor="middle" class="fg" font-size="13">최장 연속 기여</text><text x="670" y="214" text-anchor="middle" class="mu" font-size="11">2026.4.1 – 2026.9.23</text>
 <line x1="276" y1="118" x2="276" y2="228" class="ln"/><line x1="544" y1="118" x2="544" y2="228" class="ln"/>
 <circle cx="410" cy="160" r="46" fill="none" class="ln" stroke-width="5"/><circle cx="410" cy="160" r="46" fill="none" stroke="url(#rg)" stroke-width="5" stroke-dasharray="289" class="ring" transform="rotate(-90 410 160)" stroke-linecap="round"/><circle cx="410" cy="114" r="13" class="cut"/><g class="flame"><path fill="url(#fl)" d="M412 99c5 5 9 10 9 16a11 11 0 0 1-22 0c0-4 2-7 5-10 0 3 1 5 3 6-1-5 1-9 5-12z"/><path fill="#ffe8a3" d="M410 111c3 3 4 5 4 7a4 4 0 0 1-8 0c0-2 1-4 4-7z"/></g>
-<text x="410" y="172" text-anchor="middle" class="fire" font-size="32" font-weight="700">25</text><text x="410" y="226" text-anchor="middle" class="fire" font-size="13" font-weight="600">현재 연속 기여 (일)</text><text x="410" y="242" text-anchor="middle" class="mu" font-size="11">2026.10.26 – 2026.11.19</text>
+<text x="410" y="172" text-anchor="middle" class="fire" font-size="32" font-weight="700">0</text><text x="410" y="226" text-anchor="middle" class="fire" font-size="13" font-weight="600">현재 연속 기여 (일)</text><text x="410" y="242" text-anchor="middle" class="mu" font-size="11">- – -</text>
 <line x1="24" y1="258" x2="796" y2="258" class="ln"/>
-<text x="24" y="282" class="fg" font-size="13" font-weight="600">월별 기여</text><text x="324" y="282" text-anchor="end" class="mu" font-size="11">최근 12개월 6,575</text><g class="fade"><polygon points="24,384 24.0,366.3 51.3,379.3 78.5,381.1 105.8,379.7 133.1,376.1 160.4,372.1 187.6,323.2 214.9,349.2 242.2,363.4 269.5,337.1 296.7,322.3 324.0,304.0 324,384" fill="url(#ar)"/><polyline points="24.0,366.3 51.3,379.3 78.5,381.1 105.8,379.7 133.1,376.1 160.4,372.1 187.6,323.2 214.9,349.2 242.2,363.4 269.5,337.1 296.7,322.3 324.0,304.0" fill="none" class="gr" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="24" y="282" class="fg" font-size="13" font-weight="600">월별 기여</text><text x="324" y="282" text-anchor="end" class="mu" font-size="11">최근 12개월 6,570</text><g class="fade"><polygon points="24,384 24.0,366.3 51.3,379.3 78.5,381.1 105.8,379.7 133.1,376.1 160.4,372.1 187.6,323.2 214.9,349.2 242.2,363.4 269.5,337.1 296.7,322.3 324.0,304.0 324,384" fill="url(#ar)"/><polyline points="24.0,366.3 51.3,379.3 78.5,381.1 105.8,379.7 133.1,376.1 160.4,372.1 187.6,323.2 214.9,349.2 242.2,363.4 269.5,337.1 296.7,322.3 324.0,304.0" fill="none" class="gr" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="24.0" cy="366.3" r="3" class="gf"/>
 <circle cx="51.3" cy="379.3" r="3" class="gf"/>
 <circle cx="78.5" cy="381.1" r="3" class="gf"/>
@@ -57,7 +57,7 @@
 <rect x="424" y="304.0" width="26" height="80.0" rx="4" class="bar ac" style="animation-delay:120ms"/><text x="437.0" y="402" text-anchor="middle" class="mu" font-size="10">화</text>
 <rect x="454" y="308.8" width="26" height="75.2" rx="4" class="bar lt" style="animation-delay:180ms"/><text x="467.0" y="402" text-anchor="middle" class="mu" font-size="10">수</text>
 <rect x="484" y="326.7" width="26" height="57.3" rx="4" class="bar lt" style="animation-delay:240ms"/><text x="497.0" y="402" text-anchor="middle" class="mu" font-size="10">목</text>
-<rect x="514" y="327.8" width="26" height="56.2" rx="4" class="bar lt" style="animation-delay:300ms"/><text x="527.0" y="402" text-anchor="middle" class="mu" font-size="10">금</text>
+<rect x="514" y="328.1" width="26" height="55.9" rx="4" class="bar lt" style="animation-delay:300ms"/><text x="527.0" y="402" text-anchor="middle" class="mu" font-size="10">금</text>
 <rect x="544" y="357.9" width="26" height="26.1" rx="4" class="bar lt" style="animation-delay:360ms"/><text x="557.0" y="402" text-anchor="middle" class="mu" font-size="10">토</text>
 <text x="576" y="282" class="fg" font-size="13" font-weight="600">자주 쓰는 언어</text>
 <circle cx="618" cy="340" r="38" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="124.92 113.84" stroke-dashoffset="0.00" transform="rotate(-90 618 340)" class="fade"/>
