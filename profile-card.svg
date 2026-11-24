@@ -25,24 +25,24 @@
 <text x="690" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">19</text><text x="690" y="68" text-anchor="middle" class="mu" font-size="11">팔로워</text>
 <text x="760" y="50" text-anchor="middle" class="fg" font-size="18" font-weight="700">11</text><text x="760" y="68" text-anchor="middle" class="mu" font-size="11">언어</text>
 <line x1="24" y1="96" x2="796" y2="96" class="ln"/>
-<text x="150" y="168" text-anchor="middle" class="fg" font-size="30" font-weight="700">12,120</text><text x="150" y="194" text-anchor="middle" class="fg" font-size="13">전체 기여</text><text x="150" y="214" text-anchor="middle" class="mu" font-size="11">2020.4.1 – 현재</text>
+<text x="150" y="168" text-anchor="middle" class="fg" font-size="30" font-weight="700">12,222</text><text x="150" y="194" text-anchor="middle" class="fg" font-size="13">전체 기여</text><text x="150" y="214" text-anchor="middle" class="mu" font-size="11">2020.4.1 – 현재</text>
 <text x="670" y="168" text-anchor="middle" class="fg" font-size="30" font-weight="700">176일</text><text x="670" y="194" text-anchor="middle" class="fg" font-size="13">최장 연속 기여</text><text x="670" y="214" text-anchor="middle" class="mu" font-size="11">2026.4.1 – 2026.9.23</text>
 <line x1="276" y1="118" x2="276" y2="228" class="ln"/><line x1="544" y1="118" x2="544" y2="228" class="ln"/>
 <circle cx="410" cy="160" r="46" fill="none" class="ln" stroke-width="5"/><circle cx="410" cy="160" r="46" fill="none" stroke="url(#rg)" stroke-width="5" stroke-dasharray="289" class="ring" transform="rotate(-90 410 160)" stroke-linecap="round"/><circle cx="410" cy="114" r="13" class="cut"/><g class="flame"><path fill="url(#fl)" d="M412 99c5 5 9 10 9 16a11 11 0 0 1-22 0c0-4 2-7 5-10 0 3 1 5 3 6-1-5 1-9 5-12z"/><path fill="#ffe8a3" d="M410 111c3 3 4 5 4 7a4 4 0 0 1-8 0c0-2 1-4 4-7z"/></g>
 <text x="410" y="172" text-anchor="middle" class="fire" font-size="32" font-weight="700">4</text><text x="410" y="226" text-anchor="middle" class="fire" font-size="13" font-weight="600">현재 연속 기여 (일)</text><text x="410" y="242" text-anchor="middle" class="mu" font-size="11">2026.11.21 – 2026.11.24</text>
 <line x1="24" y1="258" x2="796" y2="258" class="ln"/>
-<text x="24" y="282" class="fg" font-size="13" font-weight="600">월별 기여</text><text x="324" y="282" text-anchor="end" class="mu" font-size="11">최근 12개월 6,742</text><g class="fade"><polygon points="24,384 24.0,368.2 51.3,379.8 78.5,381.4 105.8,380.2 133.1,377.0 160.4,373.4 187.6,329.7 214.9,352.9 242.2,365.6 269.5,342.1 296.7,328.9 324.0,304.0 324,384" fill="url(#ar)"/><polyline points="24.0,368.2 51.3,379.8 78.5,381.4 105.8,380.2 133.1,377.0 160.4,373.4 187.6,329.7 214.9,352.9 242.2,365.6 269.5,342.1 296.7,328.9 324.0,304.0" fill="none" class="gr" stroke-width="2.5" stroke-linejoin="round"/>
-<circle cx="24.0" cy="368.2" r="3" class="gf"/>
-<circle cx="51.3" cy="379.8" r="3" class="gf"/>
-<circle cx="78.5" cy="381.4" r="3" class="gf"/>
-<circle cx="105.8" cy="380.2" r="3" class="gf"/>
-<circle cx="133.1" cy="377.0" r="3" class="gf"/>
-<circle cx="160.4" cy="373.4" r="3" class="gf"/>
-<circle cx="187.6" cy="329.7" r="3" class="gf"/>
-<circle cx="214.9" cy="352.9" r="3" class="gf"/>
-<circle cx="242.2" cy="365.6" r="3" class="gf"/>
-<circle cx="269.5" cy="342.1" r="3" class="gf"/>
-<circle cx="296.7" cy="328.9" r="3" class="gf"/>
+<text x="24" y="282" class="fg" font-size="13" font-weight="600">월별 기여</text><text x="324" y="282" text-anchor="end" class="mu" font-size="11">최근 12개월 6,827</text><g class="fade"><polygon points="24,384 24.0,369.1 51.3,380.1 78.5,381.6 105.8,380.4 133.1,377.4 160.4,374.0 187.6,332.9 214.9,354.8 242.2,366.7 269.5,344.6 296.7,332.1 324.0,304.0 324,384" fill="url(#ar)"/><polyline points="24.0,369.1 51.3,380.1 78.5,381.6 105.8,380.4 133.1,377.4 160.4,374.0 187.6,332.9 214.9,354.8 242.2,366.7 269.5,344.6 296.7,332.1 324.0,304.0" fill="none" class="gr" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="24.0" cy="369.1" r="3" class="gf"/>
+<circle cx="51.3" cy="380.1" r="3" class="gf"/>
+<circle cx="78.5" cy="381.6" r="3" class="gf"/>
+<circle cx="105.8" cy="380.4" r="3" class="gf"/>
+<circle cx="133.1" cy="377.4" r="3" class="gf"/>
+<circle cx="160.4" cy="374.0" r="3" class="gf"/>
+<circle cx="187.6" cy="332.9" r="3" class="gf"/>
+<circle cx="214.9" cy="354.8" r="3" class="gf"/>
+<circle cx="242.2" cy="366.7" r="3" class="gf"/>
+<circle cx="269.5" cy="344.6" r="3" class="gf"/>
+<circle cx="296.7" cy="332.1" r="3" class="gf"/>
 <circle cx="324.0" cy="304.0" r="3" class="gf"/>
 </g>
 <text x="51.3" y="402" text-anchor="middle" class="mu" font-size="10">1월</text>
@@ -52,20 +52,20 @@
 <text x="269.5" y="402" text-anchor="middle" class="mu" font-size="10">9월</text>
 <text x="324.0" y="402" text-anchor="middle" class="mu" font-size="10">11월</text>
 <text x="364" y="282" class="fg" font-size="13" font-weight="600">요일별 기여</text>
-<rect x="364" y="377.3" width="26" height="6.7" rx="4" class="bar lt" style="animation-delay:0ms"/><text x="377.0" y="402" text-anchor="middle" class="mu" font-size="10">일</text>
-<rect x="394" y="316.2" width="26" height="67.8" rx="4" class="bar lt" style="animation-delay:60ms"/><text x="407.0" y="402" text-anchor="middle" class="mu" font-size="10">월</text>
+<rect x="364" y="377.6" width="26" height="6.4" rx="4" class="bar lt" style="animation-delay:0ms"/><text x="377.0" y="402" text-anchor="middle" class="mu" font-size="10">일</text>
+<rect x="394" y="319.9" width="26" height="64.1" rx="4" class="bar lt" style="animation-delay:60ms"/><text x="407.0" y="402" text-anchor="middle" class="mu" font-size="10">월</text>
 <rect x="424" y="304.0" width="26" height="80.0" rx="4" class="bar ac" style="animation-delay:120ms"/><text x="437.0" y="402" text-anchor="middle" class="mu" font-size="10">화</text>
-<rect x="454" y="309.4" width="26" height="74.6" rx="4" class="bar lt" style="animation-delay:180ms"/><text x="467.0" y="402" text-anchor="middle" class="mu" font-size="10">수</text>
-<rect x="484" y="327.1" width="26" height="56.9" rx="4" class="bar lt" style="animation-delay:240ms"/><text x="497.0" y="402" text-anchor="middle" class="mu" font-size="10">목</text>
-<rect x="514" y="328.5" width="26" height="55.5" rx="4" class="bar lt" style="animation-delay:300ms"/><text x="527.0" y="402" text-anchor="middle" class="mu" font-size="10">금</text>
-<rect x="544" y="356.4" width="26" height="27.6" rx="4" class="bar lt" style="animation-delay:360ms"/><text x="557.0" y="402" text-anchor="middle" class="mu" font-size="10">토</text>
+<rect x="454" y="313.5" width="26" height="70.5" rx="4" class="bar lt" style="animation-delay:180ms"/><text x="467.0" y="402" text-anchor="middle" class="mu" font-size="10">수</text>
+<rect x="484" y="330.2" width="26" height="53.8" rx="4" class="bar lt" style="animation-delay:240ms"/><text x="497.0" y="402" text-anchor="middle" class="mu" font-size="10">목</text>
+<rect x="514" y="331.5" width="26" height="52.5" rx="4" class="bar lt" style="animation-delay:300ms"/><text x="527.0" y="402" text-anchor="middle" class="mu" font-size="10">금</text>
+<rect x="544" y="357.9" width="26" height="26.1" rx="4" class="bar lt" style="animation-delay:360ms"/><text x="557.0" y="402" text-anchor="middle" class="mu" font-size="10">토</text>
 <text x="576" y="282" class="fg" font-size="13" font-weight="600">자주 쓰는 언어</text>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="122.61 116.15" stroke-dashoffset="0.00" transform="rotate(-90 618 340)" class="fade"/>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#3572A5" stroke-width="14" stroke-dasharray="80.80 157.96" stroke-dashoffset="-122.61" transform="rotate(-90 618 340)" class="fade"/>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#f1e05a" stroke-width="14" stroke-dasharray="15.64 223.12" stroke-dashoffset="-203.41" transform="rotate(-90 618 340)" class="fade"/>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#663399" stroke-width="14" stroke-dasharray="8.86 229.90" stroke-dashoffset="-219.05" transform="rotate(-90 618 340)" class="fade"/>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#e34c26" stroke-width="14" stroke-dasharray="6.10 232.66" stroke-dashoffset="-227.90" transform="rotate(-90 618 340)" class="fade"/>
-<circle cx="618" cy="340" r="38" fill="none" stroke="#89e051" stroke-width="14" stroke-dasharray="4.76 234.00" stroke-dashoffset="-234.00" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="121.22 117.54" stroke-dashoffset="0.00" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#3572A5" stroke-width="14" stroke-dasharray="82.20 156.56" stroke-dashoffset="-121.22" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#f1e05a" stroke-width="14" stroke-dasharray="15.71 223.05" stroke-dashoffset="-203.42" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#663399" stroke-width="14" stroke-dasharray="8.81 229.95" stroke-dashoffset="-219.13" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#e34c26" stroke-width="14" stroke-dasharray="6.09 232.67" stroke-dashoffset="-227.94" transform="rotate(-90 618 340)" class="fade"/>
+<circle cx="618" cy="340" r="38" fill="none" stroke="#89e051" stroke-width="14" stroke-dasharray="4.73 234.03" stroke-dashoffset="-234.03" transform="rotate(-90 618 340)" class="fade"/>
 <circle cx="674" cy="300" r="4" fill="#3178c6"/><text x="682" y="304" class="fg" font-size="11">TypeScript <tspan class="mu">51%</tspan></text>
 <circle cx="674" cy="317" r="4" fill="#3572A5"/><text x="682" y="321" class="fg" font-size="11">Python <tspan class="mu">34%</tspan></text>
 <circle cx="674" cy="334" r="4" fill="#f1e05a"/><text x="682" y="338" class="fg" font-size="11">JavaScript <tspan class="mu">7%</tspan></text>
